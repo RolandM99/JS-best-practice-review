@@ -1,59 +1,34 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# TO-DO List
 
-> One paragraph statement about the project.
+> "To-do list" is a tool that helps to organize your day. It simply lists the things that you need to do and allows you to mark them as complete.
 
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+![screenshot](./screenshoot.PNG)
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Major languages: JAVASCRIPT | HTML | CSS 
+- Frameworks: Bootstrap
+- Technologies used : Git | Github | Linter | Webpack
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Netlify live link](https://todolist-by-rolandm.netlify.app/)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+1. First clone the project with the command git clone https://github.com/RolandM99/To-Do-List.git
+2. Then run the command npm install in your terminal to open the project in your browser
+3. [optional] You can even fork the project
 
-### Setup
+👤 **Authour:** **Roland Manful Mweze**
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [Rolandm99](https://github.com/RolandM99)
+- Twitter: [@Manfulmwez](https://twitter.com/ManfulMwez)
+- LinkedIn: [Roland N. MWEZE](https://www.linkedin.com/in/roland-n-mweze-8b1045189/)
 
 ## 🤝 Contributing
 
@@ -65,12 +40,7 @@ Feel free to check the [issues page](../../issues/).
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
+
